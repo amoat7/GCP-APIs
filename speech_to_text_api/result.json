@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "I'm late for class",
+          "confidence": 0.9623469
+        }
+      ],
+      "resultEndTime": "1.680s",
+      "languageCode": "en-us"
+    }
+  ],
+  "totalBilledTime": "15s"
+}

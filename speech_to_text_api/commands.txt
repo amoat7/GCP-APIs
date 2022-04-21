@@ -1,0 +1,14 @@
+export GOOGLE_APPLICATION_CREDENTIALS=proven-script.json
+
+gcloud auth activate-service-account dave-923@proven-script-347020.iam.gserviceaccount.com --key-file=proven-script.json
+
+gsutil mb -c standard -l us-central1 gs://cloud-speech-api-347020
+
+gcloud services enable speech.googleapis.com
+
+gsutil cp damn-im-late-for-class.flac gs://cloud-speech-api-347020
+
+
+curl -s -X POST -H "Authorization: Bearer \"$(gcloud auth print-access-token)\""  -H "Content-Type: application/json" --data-binary @request.json "https://speech.googleapis.com/v1/speech:recognize"
+
+
