@@ -1,0 +1,469 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I really do Love this Movie.",
+        "beginOffset": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I saw it on opening night and have no regrets.",
+        "beginOffset": 29
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "text": {
+        "content": "I",
+        "beginOffset": 0
+      },
+      "partOfSpeech": {
+        "tag": "PRON",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "NOMINATIVE",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "FIRST",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "NSUBJ"
+      },
+      "lemma": "I"
+    },
+    {
+      "text": {
+        "content": "really",
+        "beginOffset": 2
+      },
+      "partOfSpeech": {
+        "tag": "ADV",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "ADVMOD"
+      },
+      "lemma": "really"
+    },
+    {
+      "text": {
+        "content": "do",
+        "beginOffset": 9
+      },
+      "partOfSpeech": {
+        "tag": "VERB",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "INDICATIVE",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "PRESENT",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "AUX"
+      },
+      "lemma": "do"
+    },
+    {
+      "text": {
+        "content": "Love",
+        "beginOffset": 12
+      },
+      "partOfSpeech": {
+        "tag": "VERB",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "ROOT"
+      },
+      "lemma": "Love"
+    },
+    {
+      "text": {
+        "content": "this",
+        "beginOffset": 17
+      },
+      "partOfSpeech": {
+        "tag": "DET",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 5,
+        "label": "DET"
+      },
+      "lemma": "this"
+    },
+    {
+      "text": {
+        "content": "Movie",
+        "beginOffset": 22
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "DOBJ"
+      },
+      "lemma": "Movie"
+    },
+    {
+      "text": {
+        "content": ".",
+        "beginOffset": 27
+      },
+      "partOfSpeech": {
+        "tag": "PUNCT",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "P"
+      },
+      "lemma": "."
+    },
+    {
+      "text": {
+        "content": "I",
+        "beginOffset": 29
+      },
+      "partOfSpeech": {
+        "tag": "PRON",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "NOMINATIVE",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "FIRST",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 8,
+        "label": "NSUBJ"
+      },
+      "lemma": "I"
+    },
+    {
+      "text": {
+        "content": "saw",
+        "beginOffset": 31
+      },
+      "partOfSpeech": {
+        "tag": "VERB",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "INDICATIVE",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "PAST",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 8,
+        "label": "ROOT"
+      },
+      "lemma": "see"
+    },
+    {
+      "text": {
+        "content": "it",
+        "beginOffset": 35
+      },
+      "partOfSpeech": {
+        "tag": "PRON",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "ACCUSATIVE",
+        "form": "FORM_UNKNOWN",
+        "gender": "NEUTER",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "THIRD",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 8,
+        "label": "DOBJ"
+      },
+      "lemma": "it"
+    },
+    {
+      "text": {
+        "content": "on",
+        "beginOffset": 38
+      },
+      "partOfSpeech": {
+        "tag": "ADP",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 8,
+        "label": "PREP"
+      },
+      "lemma": "on"
+    },
+    {
+      "text": {
+        "content": "opening",
+        "beginOffset": 41
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 12,
+        "label": "NN"
+      },
+      "lemma": "opening"
+    },
+    {
+      "text": {
+        "content": "night",
+        "beginOffset": 49
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 10,
+        "label": "POBJ"
+      },
+      "lemma": "night"
+    },
+    {
+      "text": {
+        "content": "and",
+        "beginOffset": 55
+      },
+      "partOfSpeech": {
+        "tag": "CONJ",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 8,
+        "label": "CC"
+      },
+      "lemma": "and"
+    },
+    {
+      "text": {
+        "content": "have",
+        "beginOffset": 59
+      },
+      "partOfSpeech": {
+        "tag": "VERB",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "INDICATIVE",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "PRESENT",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 8,
+        "label": "CONJ"
+      },
+      "lemma": "have"
+    },
+    {
+      "text": {
+        "content": "no",
+        "beginOffset": 64
+      },
+      "partOfSpeech": {
+        "tag": "DET",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 16,
+        "label": "NEG"
+      },
+      "lemma": "no"
+    },
+    {
+      "text": {
+        "content": "regrets",
+        "beginOffset": 67
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "SINGULAR",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 14,
+        "label": "DOBJ"
+      },
+      "lemma": "regret"
+    },
+    {
+      "text": {
+        "content": ".",
+        "beginOffset": 74
+      },
+      "partOfSpeech": {
+        "tag": "PUNCT",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 8,
+        "label": "P"
+      },
+      "lemma": "."
+    }
+  ],
+  "language": "en"
+}
